@@ -74,6 +74,7 @@ plt.ylabel("Spending Score (1-100)")
 plt.legend()
 plt.title("Customer Segments")
 plt.show()
+```
 ## Output:
 ![alt text](image.png)
 ![alt text](image-1.png)
