@@ -16,11 +16,12 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Program:
 ```
 /*
+
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: vijay k
-RegisterNumber: 24901153 
+Developed by: VIJAY K
+RegisterNumber:  24901153
 */
-```
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
@@ -74,6 +75,7 @@ plt.ylabel("Spending Score (1-100)")
 plt.legend()
 plt.title("Customer Segments")
 plt.show()
+
 ```
 ## Output:
 ![alt text](image.png)
